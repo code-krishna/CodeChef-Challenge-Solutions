@@ -15,18 +15,47 @@ This repository contains C++ solutions to various challenges from CodeChef conte
 git clone https://github.com/your-username/codechef-cpp-solutions.git
 
 
+	2.	Navigate through folders:
+	•	Solutions are organized by contest names for easier access:
 
-2.	Select a problem:
+├── Long_Challenge/
+├── Cook_Off/
+├── Starters/
+└── Practice/
+
+
+	3.	Select a problem:
 	•	Browse the contest folder and find the .cpp file for the desired problem.
-3.	Compile and run:
+	4.	Compile and run:
 	•	Use a C++ compiler to run the solution:
 
 g++ -o solution ProblemName.cpp
 ./solution
 
 
-4.	Learn and experiment:
+	5.	Learn and experiment:
 Modify the code or add print statements to understand the logic and approach better.
+
+📂 Directory Structure
+
+codechef-cpp-solutions/
+├── README.md
+├── Long_Challenge/
+│   ├── May2024_Problem1.cpp
+│   ├── May2024_Problem2.cpp
+│   └── ...
+├── Cook_Off/
+│   ├── June2024_Problem1.cpp
+│   ├── June2024_Problem2.cpp
+│   └── ...
+├── Starters/
+│   ├── July2024_Problem1.cpp
+│   ├── July2024_Problem2.cpp
+│   └── ...
+└── Practice/
+    ├── Problem1.cpp
+    ├── Problem2.cpp
+    └── ...
 
 🌟 Features
 	•	Real contest problems: Solutions for challenges faced in actual contests.
