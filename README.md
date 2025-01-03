@@ -16,16 +16,16 @@ git clone https://github.com/your-username/codechef-cpp-solutions.git
 
 
 
-	2.	Select a problem:
+2.	Select a problem:
 	•	Browse the contest folder and find the .cpp file for the desired problem.
-	3.	Compile and run:
+3.	Compile and run:
 	•	Use a C++ compiler to run the solution:
 
 g++ -o solution ProblemName.cpp
 ./solution
 
 
-	4.	Learn and experiment:
+4.	Learn and experiment:
 Modify the code or add print statements to understand the logic and approach better.
 
 🌟 Features
