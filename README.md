@@ -1,4 +1,4 @@
-🚀 CodeChef Contest Solutions in C++ 📚
+# 🚀 CodeChef Contest Solutions in C++ 📚
 
 Welcome to the CodeChef Contest Solutions repository! 🎉
 This repository contains C++ solutions to various challenges from CodeChef contests. Whether you’re a competitive programming enthusiast looking to improve your skills or a beginner learning the art of problem-solving, this repo is the perfect resource for you.
@@ -10,52 +10,23 @@ This repository contains C++ solutions to various challenges from CodeChef conte
 	•	Organized by contests: Easily find solutions based on contest names and dates.
 
 🛠️ How to Use This Repository
-	1.	Clone the repo:
+1.	Clone the repo:
 
-git clone https://github.com/your-username/codechef-cpp-solutions.git
+`git clone https://github.com/your-username/codechef-cpp-solutions.git`
 
-
-	2.	Navigate through folders:
-	•	Solutions are organized by contest names for easier access:
-
-├── Long_Challenge/
-├── Cook_Off/
-├── Starters/
-└── Practice/
-
-
-	3.	Select a problem:
+2.	Select a problem:
 	•	Browse the contest folder and find the .cpp file for the desired problem.
-	4.	Compile and run:
+4.	Compile and run:
 	•	Use a C++ compiler to run the solution:
 
+```
 g++ -o solution ProblemName.cpp
 ./solution
+```
 
 
-	5.	Learn and experiment:
+5.	Learn and experiment:
 Modify the code or add print statements to understand the logic and approach better.
-
-📂 Directory Structure
-
-codechef-cpp-solutions/
-├── README.md
-├── Long_Challenge/
-│   ├── May2024_Problem1.cpp
-│   ├── May2024_Problem2.cpp
-│   └── ...
-├── Cook_Off/
-│   ├── June2024_Problem1.cpp
-│   ├── June2024_Problem2.cpp
-│   └── ...
-├── Starters/
-│   ├── July2024_Problem1.cpp
-│   ├── July2024_Problem2.cpp
-│   └── ...
-└── Practice/
-    ├── Problem1.cpp
-    ├── Problem2.cpp
-    └── ...
 
 🌟 Features
 	•	Real contest problems: Solutions for challenges faced in actual contests.
